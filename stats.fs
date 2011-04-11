@@ -4,8 +4,6 @@ module Stats =
 
     open System
     // open System.Collections.Generic
-    
-    //////////////////////////////////////////
     ///SOME STATS :REALLY BASIC,REALLY INCOMPLETE, REALLY NOT FULLY TESTED
     //////////////////////////////////////////
     //Adding this to Array type
